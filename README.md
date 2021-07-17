@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishit-1290
-- 👀 I’m interested in Software Dev and Competetive programming
+- 👀 I’m interested in Software Dev and Competitive programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
