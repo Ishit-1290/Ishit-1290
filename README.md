@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishit-1290
 - 👀 I’m interested in Software Dev and Competitive programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently backend with Node.js
 
 - 📫 How to reach me GMAIL -> vinee042006@gmail.com, Discord -> JustAFriendlyPerson#2847
 
